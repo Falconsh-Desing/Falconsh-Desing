@@ -1,14 +1,13 @@
 
-# 👋 Hola, soy Sheila Hernández Falcón
+# Hola, soy Sheila Hernández Falcón
 
 ## Sobre mí
 
 Desarrolladora frontend freelance de 22 años. Graduada en Seguridad Informática por la Universidad de Ciencias Informáticas de La Habana (UCI).
 
-- 🔭 Actualmente trabajo en proyectos web para negocios y emprendedores
-- 🌱 Aprendiendo cada día: React, Node.js
-- 👯 Busco colaborar en proyectos frontend
-- ⚡ Dato curioso: También sé pentesting y análisis forense
+-  Actualmente trabajo en proyectos web para negocios y emprendedores
+-  Aprendiendo cada día: React, Node.js
+-  Busco colaborar en proyectos frontend
 
 ## Tecnologías que domino
 
